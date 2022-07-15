@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body {
+  -webkit-app-region: drag
+}
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+input[type="text"],
+button,
+textarea {
+	-webkit-app-region: no-drag;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  -webkit-user-select: none;
+} */
